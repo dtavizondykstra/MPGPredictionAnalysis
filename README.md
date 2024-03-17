@@ -1,4 +1,4 @@
-# MPGPredictionAnalysis
+# MPG Prediction Analysis
 
 ### Description:
 This project uses regression models to predict automobile fuel efficiency (Miles Per Gallon). The [dataset](https://www.kaggle.com/datasets/uciml/autompg-dataset) used for analysis contains various attributes such as cylinders, displacement, horsepower, weight, acceleration, model year, and origin. The project involves data preprocessing, exploratory data analysis, model building, and evaluation.
