@@ -7,8 +7,8 @@ This project uses regression models to predict automobile fuel efficiency (Miles
 1. **Data Loading and Preprocessing:** The dataset is loaded into a Pandas DataFrame and preprocessed by removing unnecessary columns, handling missing values, and creating dummy variables for categorical features.
 2. **Exploratory Data Analysis (EDA):** Correlation analysis and visualization are conducted to understand the relationship between different variables and the target variable (MPG). The analysis reveals significant correlations between MPG and various features.
 3. **Model Building and Evaluation:**
-  * Ordinary Linear Regression: The data is split into training and test sets, and a linear regression model is trained and evaluated using metrics like R-squared, RMSE, and MAE.
-  * Ridge Regression: Another regression model, Ridge Regression, is implemented and evaluated using the same metrics to compare its performance with linear regression.
+  * **Ordinary Linear Regression:** The data is split into training and test sets, and a linear regression model is trained and evaluated using metrics like R-squared, RMSE, and MAE.
+  * **Ridge Regression:** Another regression model, Ridge Regression, is implemented and evaluated using the same metrics to compare its performance with linear regression.
 
 ### Key Findings:
 * Both linear regression and ridge regression models perform well in predicting MPG, with similar R-squared values on both training and test sets.
